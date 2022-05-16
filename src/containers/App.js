@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <h1>Grocery Checklist</h1>
         <p>
-          This is where a searchbar will go
+          This is where a searchbar will go!
         </p>
         <a
           className="App-link"
